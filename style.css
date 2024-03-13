@@ -1,0 +1,23 @@
+html {
+    background: #f0eeee;
+    text-align: left;
+    font-family: "EB Garamond", serif;
+}
+
+#heart {
+    height: 223px;
+}
+
+#drawing {
+    height: 213px;
+    float: right;
+}
+
+#wait {
+    background-color: rgb(233, 246, 233);
+}
+
+.identifier {
+    text-align: inherit;
+    clear: both;
+}

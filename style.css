@@ -6,18 +6,30 @@ html {
 
 #heart {
     height: 223px;
+    margin-left: 4%;
 }
 
 #drawing {
     height: 213px;
-    float: right;
+    margin-left: 20px;
 }
 
 #wait {
     background-color: rgb(233, 246, 233);
 }
 
-.identifier {
-    text-align: inherit;
+#waaaitExplanation {
     clear: both;
+    text-align: center;
+}
+
+.identifier {
+    text-align: center;
+    clear: both;
+}
+
+.container {
+    width: 66%;
+    margin-left: 17%;
+    margin-top: 69px;
 }
